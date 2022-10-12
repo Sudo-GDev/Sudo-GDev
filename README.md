@@ -6,4 +6,5 @@ Sudo-GDev/Sudo-GDev is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 
-![Sudo GDev](https://user-images.githubusercontent.com/76806565/195431697-0816473b-17ba-4f9e-83ca-cdea105b4ab8.png)
+
+![Sudo GDev](https://user-images.githubusercontent.com/76806565/195431865-aff31802-d7bd-4bbd-b1f6-ae52dd9930b7.png)
